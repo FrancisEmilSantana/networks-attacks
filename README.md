@@ -1,7 +1,7 @@
 # 🔐 Network Security Attacks - PNETLab
 
-**Autor:** [Tu Nombre]  
-**Matrícula:** [Tu Matrícula]  
+**Autor:** Francis Emil Santana  
+**Matrícula:** 2024-1365  
 **Fecha:** 2026  
 **Laboratorio:** Seguridad en Redes - PNETLab  
 
